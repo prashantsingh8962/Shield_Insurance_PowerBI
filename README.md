@@ -17,7 +17,7 @@ The project focused on tackling the complexities of extracting actionable insigh
 
 ### Report Highlights
 The dashboard is thoughtfully organized into four distinct sections to provide a complete picture of insurance performance:
-1. **Home:** An overview including all KPIs.
+1. **Home:** Our Landing Page.
 
 <img src="https://github.com/prashantsingh8962/Shield_Insurance_PowerBI/blob/main/Resources/home.png" class="center">
 
